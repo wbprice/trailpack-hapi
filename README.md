@@ -78,6 +78,9 @@ module.exports = {
 }
 ```
 
+#### Doing other things with Hapi
+The Hapi server lives on the Trails global object at `app.packs.hapi.server`.
+
 ## Contributing
 We love contributions! In order to be able to review your code efficiently,
 please keep the following in mind:
